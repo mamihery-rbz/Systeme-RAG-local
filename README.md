@@ -1,10 +1,10 @@
 # 📚 Clone NotebookLM — Système RAG 100% Local
 
-TP Master — Conception d'un système RAG (Retrieval-Augmented Generation) entièrement local, permettant d'interagir intelligemment avec ses propres documents, sans aucun appel à une API externe.
+Conception d'un système RAG (Retrieval-Augmented Generation) entièrement local, permettant d'interagir intelligemment avec ses propres documents, sans aucun appel à une API externe.
 
 ---
 
-## 🎯 Objectif du TP
+## 🎯 Objectif
 
 L'objectif est de concevoir et développer de A à Z un système RAG **entièrement local**, un clone simplifié de NotebookLM.
 
